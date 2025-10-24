@@ -1,0 +1,32 @@
+C:\Users\Ecenu\OneDrive\Masaüstü\C#\paint uygulaması\paint uygulaması\bin\Debug\net8.0-windows\paint uygulaması.exe
+C:\Users\Ecenu\OneDrive\Masaüstü\C#\paint uygulaması\paint uygulaması\bin\Debug\net8.0-windows\paint uygulaması.deps.json
+C:\Users\Ecenu\OneDrive\Masaüstü\C#\paint uygulaması\paint uygulaması\bin\Debug\net8.0-windows\paint uygulaması.runtimeconfig.json
+C:\Users\Ecenu\OneDrive\Masaüstü\C#\paint uygulaması\paint uygulaması\bin\Debug\net8.0-windows\paint uygulaması.dll
+C:\Users\Ecenu\OneDrive\Masaüstü\C#\paint uygulaması\paint uygulaması\bin\Debug\net8.0-windows\paint uygulaması.pdb
+C:\Users\Ecenu\OneDrive\Masaüstü\C#\paint uygulaması\paint uygulaması\obj\Debug\net8.0-windows\paint_uygulaması.Form1.resources
+C:\Users\Ecenu\OneDrive\Masaüstü\C#\paint uygulaması\paint uygulaması\obj\Debug\net8.0-windows\paint uygulaması.csproj.GenerateResource.cache
+C:\Users\Ecenu\OneDrive\Masaüstü\C#\paint uygulaması\paint uygulaması\obj\Debug\net8.0-windows\paint uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ecenu\OneDrive\Masaüstü\C#\paint uygulaması\paint uygulaması\obj\Debug\net8.0-windows\paint uygulaması.AssemblyInfoInputs.cache
+C:\Users\Ecenu\OneDrive\Masaüstü\C#\paint uygulaması\paint uygulaması\obj\Debug\net8.0-windows\paint uygulaması.AssemblyInfo.cs
+C:\Users\Ecenu\OneDrive\Masaüstü\C#\paint uygulaması\paint uygulaması\obj\Debug\net8.0-windows\paint uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Ecenu\OneDrive\Masaüstü\C#\paint uygulaması\paint uygulaması\obj\Debug\net8.0-windows\paint uygulaması.dll
+C:\Users\Ecenu\OneDrive\Masaüstü\C#\paint uygulaması\paint uygulaması\obj\Debug\net8.0-windows\refint\paint uygulaması.dll
+C:\Users\Ecenu\OneDrive\Masaüstü\C#\paint uygulaması\paint uygulaması\obj\Debug\net8.0-windows\paint uygulaması.pdb
+C:\Users\Ecenu\OneDrive\Masaüstü\C#\paint uygulaması\paint uygulaması\obj\Debug\net8.0-windows\paint uygulaması.genruntimeconfig.cache
+C:\Users\Ecenu\OneDrive\Masaüstü\C#\paint uygulaması\paint uygulaması\obj\Debug\net8.0-windows\ref\paint uygulaması.dll
+C:\Users\ECENUR\OneDrive\Masaüstü\eski pcden gelenler\C#\paint uygulaması\paint uygulaması\bin\Debug\net8.0-windows\paint uygulaması.exe
+C:\Users\ECENUR\OneDrive\Masaüstü\eski pcden gelenler\C#\paint uygulaması\paint uygulaması\bin\Debug\net8.0-windows\paint uygulaması.deps.json
+C:\Users\ECENUR\OneDrive\Masaüstü\eski pcden gelenler\C#\paint uygulaması\paint uygulaması\bin\Debug\net8.0-windows\paint uygulaması.runtimeconfig.json
+C:\Users\ECENUR\OneDrive\Masaüstü\eski pcden gelenler\C#\paint uygulaması\paint uygulaması\bin\Debug\net8.0-windows\paint uygulaması.dll
+C:\Users\ECENUR\OneDrive\Masaüstü\eski pcden gelenler\C#\paint uygulaması\paint uygulaması\bin\Debug\net8.0-windows\paint uygulaması.pdb
+C:\Users\ECENUR\OneDrive\Masaüstü\eski pcden gelenler\C#\paint uygulaması\paint uygulaması\obj\Debug\net8.0-windows\paint_uygulaması.Form1.resources
+C:\Users\ECENUR\OneDrive\Masaüstü\eski pcden gelenler\C#\paint uygulaması\paint uygulaması\obj\Debug\net8.0-windows\paint uygulaması.csproj.GenerateResource.cache
+C:\Users\ECENUR\OneDrive\Masaüstü\eski pcden gelenler\C#\paint uygulaması\paint uygulaması\obj\Debug\net8.0-windows\paint uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ECENUR\OneDrive\Masaüstü\eski pcden gelenler\C#\paint uygulaması\paint uygulaması\obj\Debug\net8.0-windows\paint uygulaması.AssemblyInfoInputs.cache
+C:\Users\ECENUR\OneDrive\Masaüstü\eski pcden gelenler\C#\paint uygulaması\paint uygulaması\obj\Debug\net8.0-windows\paint uygulaması.AssemblyInfo.cs
+C:\Users\ECENUR\OneDrive\Masaüstü\eski pcden gelenler\C#\paint uygulaması\paint uygulaması\obj\Debug\net8.0-windows\paint uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\ECENUR\OneDrive\Masaüstü\eski pcden gelenler\C#\paint uygulaması\paint uygulaması\obj\Debug\net8.0-windows\paint uygulaması.dll
+C:\Users\ECENUR\OneDrive\Masaüstü\eski pcden gelenler\C#\paint uygulaması\paint uygulaması\obj\Debug\net8.0-windows\refint\paint uygulaması.dll
+C:\Users\ECENUR\OneDrive\Masaüstü\eski pcden gelenler\C#\paint uygulaması\paint uygulaması\obj\Debug\net8.0-windows\paint uygulaması.pdb
+C:\Users\ECENUR\OneDrive\Masaüstü\eski pcden gelenler\C#\paint uygulaması\paint uygulaması\obj\Debug\net8.0-windows\paint uygulaması.genruntimeconfig.cache
+C:\Users\ECENUR\OneDrive\Masaüstü\eski pcden gelenler\C#\paint uygulaması\paint uygulaması\obj\Debug\net8.0-windows\ref\paint uygulaması.dll
